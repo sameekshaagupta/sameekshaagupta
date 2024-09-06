@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameekshaagupta&label=Profile%20views&color=0e75b6&style=flat" alt="profile view" /> </p>
 - 🌱 I’m currently learning Data Structures and Algorithm in CPP
 
-- 📫 How to reach me :**sameekshag@gmail.com**
+- 📫 How to reach me :**sameekshag2101@gmail.com**
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sameeksha-gupta-423b2525a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameeksha-gupta-423b2525a" height="30" width="40" /></a>
