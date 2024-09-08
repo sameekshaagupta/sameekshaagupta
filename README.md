@@ -25,4 +25,4 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sameekshaagupta&" alt="sameekshaagupta" /></p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sameekshaagupta/sameekshaagupta/blob/output/github-contribution-grid-snake.svg)
