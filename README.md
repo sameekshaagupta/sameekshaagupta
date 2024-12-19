@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameekshaagupta&show_icons=true&locale=en" alt="sameekshaagupta" /></p>
 
-<a href="https://git.io/streak-stats"><img style="margin:auto" src="https://streak-stats.demolab.com?user=sameekshaagupta" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sameekshaagupta" alt="GitHub Streak" /></a>
